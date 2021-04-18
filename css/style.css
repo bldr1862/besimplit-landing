@@ -1501,7 +1501,8 @@ p.artficial:before{
 @media (max-width: 480px){
     .icon-img-box{
         position: relative;
-        margin-bottom: 15px
+        margin-bottom: 15px;
+        width:500%
     }
     .services-block-four .inner-box {
         padding-left: 0px !important;
