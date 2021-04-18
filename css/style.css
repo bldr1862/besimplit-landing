@@ -71,6 +71,10 @@
     padding: 0;
 }
 
+html {
+    scroll-behavior: smooth;
+   }
+
 body {
     font-family: 'Poppins', sans-serif;
     background: #4834d4;

@@ -121,21 +121,21 @@
     })
 
     // :: ScrollUp Active Code
-    if ($.fn.scrollUp) {
-        $.scrollUp({
-            scrollSpeed: 1500,
-            scrollText: 'Scroll Top'
-        });
-    }
+    // if ($.fn.scrollUp) {
+    //     $.scrollUp({
+    //         scrollSpeed: 1500,
+    //         scrollText: 'Scroll Top'
+    //     });
+    // }
 
     // :: onePageNav Active Code
-    if ($.fn.onePageNav) {
-        $('#nav').onePageNav({
-            currentClass: 'active',
-            scrollSpeed: 1500,
-            easing: 'easeOutQuad'
-        });
-    }
+    // if ($.fn.onePageNav) {
+    //     $('#nav').onePageNav({
+    //         currentClass: 'active',
+    //         scrollSpeed: 1500,
+    //         easing: 'easeOutQuad'
+    //     });
+    // }
 
     // :: CounterUp Active Code
     if ($.fn.counterUp) {
