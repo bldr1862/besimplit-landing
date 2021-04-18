@@ -909,6 +909,10 @@ img {
     background-color: #192a56
 }
 
+.header-area.fadeInDown.sticky .dark.breakpoint-on .classy-navbar .classy-menu.menu-on {
+    background-color: #fff
+}
+
 .dark .classycloseIcon .cross-wrap span {
     background-color: #fff
 }
@@ -916,6 +920,11 @@ img {
 .dark.breakpoint-on .classynav>ul>li>a {
     background-color: #192a56;
     color: #fff;
+    border-bottom: 1px solid rgba(255, 255, 255, .05)
+}
+
+.header-area.fadeInDown.sticky .dark.breakpoint-on .classynav>ul>li>a {
+    background-color: #fff;
     border-bottom: 1px solid rgba(255, 255, 255, .05)
 }
 
